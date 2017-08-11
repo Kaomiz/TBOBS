@@ -12,6 +12,7 @@
     <object>objects\object0</object>
     <object>objects\object1</object>
     <object>objects\object2</object>
+    <object>objects\object3</object>
   </objects>
   <help>
     <rtf>help.rtf</rtf>
